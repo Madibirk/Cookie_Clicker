@@ -1,0 +1,116 @@
+body { display: flex; flex-direction: row; justify-content: space-evenly;
+}
+section{
+    margin-top: 150px;
+    text-align: center;
+}
+main {
+  display: flex; 
+   flex-direction: column; 
+   border: 2px solid black;
+   padding: 5px;
+}
+h1{
+     text-align: center; 
+}
+
+#countNumber {
+    font-size: larger; font-weight: bold;
+}
+
+#first-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#second-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px;
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#third-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#fourth-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#fifth-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#sixth-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#seventh-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#eigth-item{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    row-gap: 50px; 
+    gap: 200px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 20px;
+    padding-right: 15px;
+}
+#buy-button{
+    display: inline;
+    border: 1px solid black;
+    padding-inline: 7px;
+    background-color: lightgrey;
+    margin-inline: 12px;
+    margin-top: 15px;
+}
