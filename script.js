@@ -41,7 +41,7 @@ const coffeeClick = () => {
     document.getElementById('countNumber').innerText = state.coffee
     coffeeListener()
 }
-
+// test
 coffeeButton.addEventListener('click', coffeeClick)
 
 const buyClick = () => {
